@@ -24,8 +24,12 @@ public class VendorService {
 
     // Method to start vendor ticket release process
     public void startVendorReleases(int vendorCount, int ticketReleaseRate, int releaseInterval) {
+        System.out.println("Starting vendor releases with vendorCount=" + vendorCount
+                + ", ticketReleaseRate=" + ticketReleaseRate
+                + ", releaseInterval=" + releaseInterval);
+
         for (int i = 0; i < vendorCount; i++) {
-            Vendor vendor = new Vendor(ticketPool, ticketReleaseRate, releaseInterval);
+            Vendor vendor = new Vendor(ticketPool, ticketReleaseRate);
             executorService.scheduleAtFixedRate(vendor, 0, releaseInterval, TimeUnit.MILLISECONDS);
         }
 

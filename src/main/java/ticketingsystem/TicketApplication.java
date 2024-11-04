@@ -23,16 +23,23 @@ public class TicketApplication {
 			TicketPoolService ticketPoolService,
 			Configuration configuration) {
 		return args -> {
-			// Start the vendor release process
-			vendorService.startVendorReleases(
-					configuration.getVendorCount(),
-					configuration.getTicketReleaseRate(),
-					configuration.getCustomerRetrievalRate());
+			System.out.println("Configuration loaded: " + configuration);
 
-			// Start the customer purchase process
-			customerService.startCustomerPurchases(
-					configuration.getCustomerCount(),
-					configuration.getCustomerRetrievalRate());
+			// Only start services if configuration values are valid
+			if (configuration.getVendorCount() > 0 && configuration.getTicketReleaseRate() > 0) {
+				vendorService.startVendorReleases(
+						configuration.getVendorCount(),
+						configuration.getTicketReleaseRate(),
+						1000); // example interval
+			}
+
+			if (configuration.getCustomerCount() > 0 && configuration.getCustomerRetrievalRate() > 0) {
+				customerService.startCustomerPurchases(
+						configuration.getCustomerCount(),
+						2000); // example interval
+			}
 		};
 	}
+
+
 }
