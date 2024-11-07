@@ -3048,3 +3048,267 @@
 [2024-11-05 21:31:01][INFO] Customer #2 purchased Ticket{id=2, eventName='Event #2', price=50.0}
 [2024-11-05 21:31:01][INFO] Customer #3 purchased Ticket{id=1, eventName='Event #1', price=50.0}
 [2024-11-05 21:31:01][INFO] Customer #1 purchased Ticket{id=2, eventName='Event #2', price=50.0}
+[2024-11-07 20:22:33][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:22:33][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:22:33][INFO] Customer #2 attempted to purchase a ticket, but none were available.
+[2024-11-07 20:22:33][INFO] Customer #1 purchased Ticket{id=2, eventName='Event #2', price=50.0}
+[2024-11-07 20:22:33][INFO] Customer #3 purchased Ticket{id=1, eventName='Event #1', price=50.0}
+[2024-11-07 20:22:34][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:22:34][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:22:35][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:22:35][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:22:35][INFO] Customer #3 purchased Ticket{id=2, eventName='Event #2', price=50.0}
+[2024-11-07 20:22:35][INFO] Customer #1 purchased Ticket{id=1, eventName='Event #1', price=50.0}
+[2024-11-07 20:22:35][INFO] Customer #2 purchased Ticket{id=1, eventName='Event #1', price=50.0}
+[2024-11-07 20:22:36][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:22:36][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:22:37][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:22:37][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:22:37][INFO] Customer #2 purchased Ticket{id=2, eventName='Event #2', price=50.0}
+[2024-11-07 20:22:37][INFO] Customer #1 purchased Ticket{id=2, eventName='Event #2', price=50.0}
+[2024-11-07 20:22:37][INFO] Customer #3 purchased Ticket{id=1, eventName='Event #1', price=50.0}
+[2024-11-07 20:22:38][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:22:38][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:22:39][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:22:39][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:22:39][INFO] Customer #2 purchased Ticket{id=1, eventName='Event #1', price=50.0}
+[2024-11-07 20:22:39][INFO] Customer #3 purchased Ticket{id=2, eventName='Event #2', price=50.0}
+[2024-11-07 20:22:39][INFO] Customer #1 purchased Ticket{id=1, eventName='Event #1', price=50.0}
+[2024-11-07 20:22:40][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:22:40][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:22:41][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:22:41][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:22:41][INFO] Customer #2 purchased Ticket{id=2, eventName='Event #2', price=50.0}
+[2024-11-07 20:22:41][INFO] Customer #3 purchased Ticket{id=2, eventName='Event #2', price=50.0}
+[2024-11-07 20:22:41][INFO] Customer #1 purchased Ticket{id=1, eventName='Event #1', price=50.0}
+[2024-11-07 20:22:42][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:22:42][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:22:43][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:22:43][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:22:43][INFO] Customer #2 purchased Ticket{id=1, eventName='Event #1', price=50.0}
+[2024-11-07 20:22:43][INFO] Customer #3 purchased Ticket{id=1, eventName='Event #1', price=50.0}
+[2024-11-07 20:22:43][INFO] Customer #1 purchased Ticket{id=2, eventName='Event #2', price=50.0}
+[2024-11-07 20:22:44][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:22:44][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:22:45][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:22:45][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:22:45][INFO] Customer #2 purchased Ticket{id=2, eventName='Event #2', price=50.0}
+[2024-11-07 20:22:45][INFO] Customer #3 purchased Ticket{id=2, eventName='Event #2', price=50.0}
+[2024-11-07 20:22:45][INFO] Customer #1 purchased Ticket{id=1, eventName='Event #1', price=50.0}
+[2024-11-07 20:22:46][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:22:46][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:22:47][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:22:47][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:22:47][INFO] Customer #2 purchased Ticket{id=1, eventName='Event #1', price=50.0}
+[2024-11-07 20:22:47][INFO] Customer #3 purchased Ticket{id=2, eventName='Event #2', price=50.0}
+[2024-11-07 20:22:47][INFO] Customer #1 purchased Ticket{id=2, eventName='Event #2', price=50.0}
+[2024-11-07 20:22:48][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:22:48][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:22:49][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:22:49][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:22:49][INFO] Customer #2 purchased Ticket{id=1, eventName='Event #1', price=50.0}
+[2024-11-07 20:22:49][INFO] Customer #1 purchased Ticket{id=1, eventName='Event #1', price=50.0}
+[2024-11-07 20:22:49][INFO] Customer #3 purchased Ticket{id=2, eventName='Event #2', price=50.0}
+[2024-11-07 20:22:50][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:22:50][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:22:51][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:22:51][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:22:51][INFO] Customer #2 purchased Ticket{id=1, eventName='Event #1', price=50.0}
+[2024-11-07 20:22:51][INFO] Customer #3 purchased Ticket{id=1, eventName='Event #1', price=50.0}
+[2024-11-07 20:22:51][INFO] Customer #1 purchased Ticket{id=2, eventName='Event #2', price=50.0}
+[2024-11-07 20:22:52][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:22:52][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:22:53][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:22:53][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:22:53][INFO] Customer #2 purchased Ticket{id=2, eventName='Event #2', price=50.0}
+[2024-11-07 20:22:53][INFO] Customer #1 purchased Ticket{id=2, eventName='Event #2', price=50.0}
+[2024-11-07 20:22:53][INFO] Customer #3 purchased Ticket{id=1, eventName='Event #1', price=50.0}
+[2024-11-07 20:22:54][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:22:54][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:22:55][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:22:55][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:22:55][INFO] Customer #2 purchased Ticket{id=2, eventName='Event #2', price=50.0}
+[2024-11-07 20:22:55][INFO] Customer #1 purchased Ticket{id=1, eventName='Event #1', price=50.0}
+[2024-11-07 20:22:55][INFO] Customer #3 purchased Ticket{id=1, eventName='Event #1', price=50.0}
+[2024-11-07 20:22:56][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:22:56][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:22:57][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:22:57][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:22:57][INFO] Customer #2 purchased Ticket{id=2, eventName='Event #2', price=50.0}
+[2024-11-07 20:22:57][INFO] Customer #1 purchased Ticket{id=1, eventName='Event #1', price=50.0}
+[2024-11-07 20:22:57][INFO] Customer #3 purchased Ticket{id=2, eventName='Event #2', price=50.0}
+[2024-11-07 20:22:58][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:22:58][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:22:59][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:22:59][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:22:59][INFO] Customer #2 purchased Ticket{id=1, eventName='Event #1', price=50.0}
+[2024-11-07 20:22:59][INFO] Customer #1 purchased Ticket{id=2, eventName='Event #2', price=50.0}
+[2024-11-07 20:22:59][INFO] Customer #3 purchased Ticket{id=2, eventName='Event #2', price=50.0}
+[2024-11-07 20:23:00][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:23:00][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:23:01][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:23:01][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:23:01][INFO] Customer #1 purchased Ticket{id=1, eventName='Event #1', price=50.0}
+[2024-11-07 20:23:01][INFO] Customer #3 purchased Ticket{id=1, eventName='Event #1', price=50.0}
+[2024-11-07 20:23:01][INFO] Customer #2 purchased Ticket{id=2, eventName='Event #2', price=50.0}
+[2024-11-07 20:23:02][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:23:02][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:23:03][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:23:03][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:23:03][INFO] Customer #3 purchased Ticket{id=2, eventName='Event #2', price=50.0}
+[2024-11-07 20:23:03][INFO] Customer #1 purchased Ticket{id=1, eventName='Event #1', price=50.0}
+[2024-11-07 20:23:03][INFO] Customer #2 purchased Ticket{id=1, eventName='Event #1', price=50.0}
+[2024-11-07 20:23:04][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:23:04][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:23:05][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:23:05][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:23:05][INFO] Customer #1 purchased Ticket{id=2, eventName='Event #2', price=50.0}
+[2024-11-07 20:23:05][INFO] Customer #3 purchased Ticket{id=1, eventName='Event #1', price=50.0}
+[2024-11-07 20:23:05][INFO] Customer #2 purchased Ticket{id=2, eventName='Event #2', price=50.0}
+[2024-11-07 20:23:06][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:23:06][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:23:07][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:23:07][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:23:07][INFO] Customer #3 purchased Ticket{id=1, eventName='Event #1', price=50.0}
+[2024-11-07 20:23:07][INFO] Customer #1 purchased Ticket{id=2, eventName='Event #2', price=50.0}
+[2024-11-07 20:23:07][INFO] Customer #2 purchased Ticket{id=1, eventName='Event #1', price=50.0}
+[2024-11-07 20:23:08][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:23:08][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:46:48][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:46:48][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:46:48][INFO] Customer #1 purchased Ticket{id=1, eventName='Event #1', price=50.0}
+[2024-11-07 20:46:48][INFO] Customer #2 attempted to purchase a ticket, but none were available.
+[2024-11-07 20:46:48][INFO] Customer #3 purchased Ticket{id=2, eventName='Event #2', price=50.0}
+[2024-11-07 20:46:49][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:46:49][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:46:50][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:46:50][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:46:50][INFO] Customer #1 purchased Ticket{id=1, eventName='Event #1', price=50.0}
+[2024-11-07 20:46:50][INFO] Customer #2 purchased Ticket{id=2, eventName='Event #2', price=50.0}
+[2024-11-07 20:46:50][INFO] Customer #3 purchased Ticket{id=1, eventName='Event #1', price=50.0}
+[2024-11-07 20:46:51][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:46:51][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:46:52][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:46:52][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:46:52][INFO] Customer #1 purchased Ticket{id=2, eventName='Event #2', price=50.0}
+[2024-11-07 20:46:52][INFO] Customer #2 purchased Ticket{id=1, eventName='Event #1', price=50.0}
+[2024-11-07 20:46:52][INFO] Customer #3 purchased Ticket{id=2, eventName='Event #2', price=50.0}
+[2024-11-07 20:46:53][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:46:53][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:46:54][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:46:54][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:46:54][INFO] Customer #3 purchased Ticket{id=2, eventName='Event #2', price=50.0}
+[2024-11-07 20:46:54][INFO] Customer #2 purchased Ticket{id=1, eventName='Event #1', price=50.0}
+[2024-11-07 20:46:54][INFO] Customer #1 purchased Ticket{id=2, eventName='Event #2', price=50.0}
+[2024-11-07 20:46:55][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:46:55][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:46:56][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:46:56][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:46:56][INFO] Customer #1 purchased Ticket{id=1, eventName='Event #1', price=50.0}
+[2024-11-07 20:46:56][INFO] Customer #2 purchased Ticket{id=2, eventName='Event #2', price=50.0}
+[2024-11-07 20:46:56][INFO] Customer #3 purchased Ticket{id=1, eventName='Event #1', price=50.0}
+[2024-11-07 20:46:57][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:46:57][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:46:58][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:46:58][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:46:58][INFO] Customer #2 purchased Ticket{id=1, eventName='Event #1', price=50.0}
+[2024-11-07 20:46:58][INFO] Customer #1 purchased Ticket{id=1, eventName='Event #1', price=50.0}
+[2024-11-07 20:46:58][INFO] Customer #3 purchased Ticket{id=2, eventName='Event #2', price=50.0}
+[2024-11-07 20:46:59][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:46:59][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:47:00][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:47:00][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:47:00][INFO] Customer #3 purchased Ticket{id=1, eventName='Event #1', price=50.0}
+[2024-11-07 20:47:00][INFO] Customer #1 purchased Ticket{id=2, eventName='Event #2', price=50.0}
+[2024-11-07 20:47:00][INFO] Customer #2 purchased Ticket{id=2, eventName='Event #2', price=50.0}
+[2024-11-07 20:47:01][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:47:01][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:47:02][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:47:02][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:47:03][INFO] Customer #1 purchased Ticket{id=1, eventName='Event #1', price=50.0}
+[2024-11-07 20:47:03][INFO] Customer #2 purchased Ticket{id=2, eventName='Event #2', price=50.0}
+[2024-11-07 20:47:03][INFO] Customer #3 purchased Ticket{id=2, eventName='Event #2', price=50.0}
+[2024-11-07 20:47:03][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:47:03][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:47:04][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:47:04][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:47:05][INFO] Customer #1 purchased Ticket{id=1, eventName='Event #1', price=50.0}
+[2024-11-07 20:47:05][INFO] Customer #2 purchased Ticket{id=2, eventName='Event #2', price=50.0}
+[2024-11-07 20:47:05][INFO] Customer #3 purchased Ticket{id=1, eventName='Event #1', price=50.0}
+[2024-11-07 20:47:05][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:47:05][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:47:06][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:47:06][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:47:07][INFO] Customer #2 purchased Ticket{id=1, eventName='Event #1', price=50.0}
+[2024-11-07 20:47:07][INFO] Customer #3 purchased Ticket{id=2, eventName='Event #2', price=50.0}
+[2024-11-07 20:47:07][INFO] Customer #1 purchased Ticket{id=2, eventName='Event #2', price=50.0}
+[2024-11-07 20:47:07][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:47:07][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:47:08][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:47:08][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:47:09][INFO] Customer #2 purchased Ticket{id=1, eventName='Event #1', price=50.0}
+[2024-11-07 20:47:09][INFO] Customer #1 purchased Ticket{id=2, eventName='Event #2', price=50.0}
+[2024-11-07 20:47:09][INFO] Customer #3 purchased Ticket{id=1, eventName='Event #1', price=50.0}
+[2024-11-07 20:47:09][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:47:09][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:47:10][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:47:10][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:47:11][INFO] Customer #3 purchased Ticket{id=1, eventName='Event #1', price=50.0}
+[2024-11-07 20:47:11][INFO] Customer #2 purchased Ticket{id=2, eventName='Event #2', price=50.0}
+[2024-11-07 20:47:11][INFO] Customer #1 purchased Ticket{id=2, eventName='Event #2', price=50.0}
+[2024-11-07 20:47:11][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:47:11][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:47:12][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:47:12][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:47:13][INFO] Customer #1 purchased Ticket{id=2, eventName='Event #2', price=50.0}
+[2024-11-07 20:47:13][INFO] Customer #2 purchased Ticket{id=1, eventName='Event #1', price=50.0}
+[2024-11-07 20:47:13][INFO] Customer #3 purchased Ticket{id=1, eventName='Event #1', price=50.0}
+[2024-11-07 20:47:13][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:47:13][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:47:14][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:47:14][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:47:15][INFO] Customer #1 purchased Ticket{id=2, eventName='Event #2', price=50.0}
+[2024-11-07 20:47:15][INFO] Customer #2 purchased Ticket{id=1, eventName='Event #1', price=50.0}
+[2024-11-07 20:47:15][INFO] Customer #3 purchased Ticket{id=2, eventName='Event #2', price=50.0}
+[2024-11-07 20:47:15][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:47:15][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:47:16][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:47:16][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:47:17][INFO] Customer #3 purchased Ticket{id=1, eventName='Event #1', price=50.0}
+[2024-11-07 20:47:17][INFO] Customer #1 purchased Ticket{id=2, eventName='Event #2', price=50.0}
+[2024-11-07 20:47:17][INFO] Customer #2 purchased Ticket{id=1, eventName='Event #1', price=50.0}
+[2024-11-07 20:47:17][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:47:17][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:47:18][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:47:18][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:47:19][INFO] Customer #3 purchased Ticket{id=1, eventName='Event #1', price=50.0}
+[2024-11-07 20:47:19][INFO] Customer #1 purchased Ticket{id=2, eventName='Event #2', price=50.0}
+[2024-11-07 20:47:19][INFO] Customer #2 purchased Ticket{id=2, eventName='Event #2', price=50.0}
+[2024-11-07 20:47:19][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:47:19][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:47:20][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:47:20][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:47:21][INFO] Customer #1 purchased Ticket{id=1, eventName='Event #1', price=50.0}
+[2024-11-07 20:47:21][INFO] Customer #2 purchased Ticket{id=2, eventName='Event #2', price=50.0}
+[2024-11-07 20:47:21][INFO] Customer #3 purchased Ticket{id=1, eventName='Event #1', price=50.0}
+[2024-11-07 20:47:21][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:47:21][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:47:22][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:47:22][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:47:23][INFO] Customer #3 purchased Ticket{id=1, eventName='Event #1', price=50.0}
+[2024-11-07 20:47:23][INFO] Customer #2 purchased Ticket{id=1, eventName='Event #1', price=50.0}
+[2024-11-07 20:47:23][INFO] Customer #1 purchased Ticket{id=2, eventName='Event #2', price=50.0}
+[2024-11-07 20:47:23][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:47:23][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:47:24][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:47:24][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:47:25][INFO] Customer #2 purchased Ticket{id=2, eventName='Event #2', price=50.0}
+[2024-11-07 20:47:25][INFO] Customer #1 purchased Ticket{id=2, eventName='Event #2', price=50.0}
+[2024-11-07 20:47:25][INFO] Customer #3 purchased Ticket{id=1, eventName='Event #1', price=50.0}
+[2024-11-07 20:47:25][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:47:25][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:47:26][INFO] Vendor #1 released 1 tickets.
+[2024-11-07 20:47:26][INFO] Vendor #2 released 1 tickets.
+[2024-11-07 20:47:27][INFO] Customer #2 purchased Ticket{id=2, eventName='Event #2', price=50.0}
+[2024-11-07 20:47:27][INFO] Customer #3 purchased Ticket{id=1, eventName='Event #1', price=50.0}
+[2024-11-07 20:47:27][INFO] Customer #1 purchased Ticket{id=1, eventName='Event #1', price=50.0}

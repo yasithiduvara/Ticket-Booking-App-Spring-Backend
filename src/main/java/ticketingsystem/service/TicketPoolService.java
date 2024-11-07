@@ -5,6 +5,7 @@ import ticketingsystem.ticket.TicketPool;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+import java.util.Collections;
 import java.util.List;
 
 @Service
@@ -17,18 +18,24 @@ public class TicketPoolService {
         this.ticketPool = ticketPool;
     }
 
-    // Method to add tickets to the pool
-    public void addTickets(List<Ticket> newTickets) {
-        ticketPool.addTickets(newTickets);
+    // Synchronized method to add tickets to the pool
+    public synchronized void addTickets(List<Ticket> newTickets) {
+        synchronized (ticketPool) {
+            ticketPool.addTickets(Collections.synchronizedList(newTickets));
+        }
     }
 
-    // Method to remove a ticket from the pool
-    public ticketingsystem.ticket.Ticket removeTicket() {
-        return ticketPool.removeTicket();
+    // Synchronized method to remove a ticket from the pool
+    public synchronized Ticket removeTicket() {
+        synchronized (ticketPool) {
+            return ticketPool.removeTicket();
+        }
     }
 
-    // Method to get the current number of available tickets
-    public int getAvailableTicketsCount() {
-        return ticketPool.getAvailableTicketsCount();
+    // Synchronized method to get the current number of available tickets
+    public synchronized int getAvailableTicketsCount() {
+        synchronized (ticketPool) {
+            return ticketPool.getAvailableTicketsCount();
+        }
     }
 }
